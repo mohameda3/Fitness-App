@@ -6,6 +6,13 @@ Our core features are logging in a user, registering a user, signing out a user,
 
 We decided to host our application on Microsoft Azure.
 
+## About:
+
+Our server is a REST api that responds populates/retrieves from/updates a MongoDB database depending on the clients request.
+
+This was implemented with the MEAN stack.
+
+
 ## How to Use:
 
 
@@ -27,12 +34,4 @@ The reason for these specific examples is that the API database is extremely spe
 
 When you are finished, either repeat the process or signout (located in the left nabber).
 
-## CRUD
-
-Our project supports CRUD in many ways.
-
-We can create users, challenges, and messages.
-We can retrieve users, challenges, and messages.
-We can update challenges by either joining, withdrawing, or updating someone’s progress.
-We can delete users, challenges, and messages.
 
